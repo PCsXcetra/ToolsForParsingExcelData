@@ -22,3 +22,4 @@ Tool named:: "Parse_XLSM_MacroSheetData" was designed to extract the data from t
   This tool will fail on sample like in the blogpost that use different layouts.
   
 Tool named:: "Parse_Zloader_Excel4_W-FORMULA-FILL" was designed to work with macrosheets that use formulas. It will work on blogpost sample.
+  To use this tool: Navigate to the xml version of the macrosheet of the type with formulas in it and select file and then click the button.
