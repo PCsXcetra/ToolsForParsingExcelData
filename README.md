@@ -23,3 +23,10 @@ Tool named:: "Parse_XLSM_MacroSheetData" was designed to extract the data from t
   
 Tool named:: "Parse_Zloader_Excel4_W-FORMULA-FILL" was designed to work with macrosheets that use formulas. It will work on blogpost sample.
   To use this tool: Navigate to the xml version of the macrosheet of the type with formulas in it and select file and then click the button.
+
+
+Tool named:: "ConvFromDecCharCode" was designed for converting decimal char codes to char. It allows you to pick a delimiter Char. 
+  Default is * and may need to be changed.
+  This version will Ignore "Null Bytes" when processing the char codes.
+  To use this tool: Copy paste a decimal array into the input box. Input the correct delimeter. Click the button.
+     
