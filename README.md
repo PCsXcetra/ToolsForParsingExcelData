@@ -3,7 +3,7 @@ A small group of tools to aid it extracting data from Excel Files.
 
 The password for the Files is "clean"
 
-There is a blog post that goes with 2 of these files located at [inset blog link here]
+There is a blog post that goes with 2 of these files located at https://pcsxcetrasupport3.wordpress.com/2021/11/16/excel-4-macro-code-obfuscation/
 
 Tool named:: "Clean_And_Extract_Excel_Unicode_Shared_Strings" This tool is for use with the binary version of the shared strings.
   To use this tool: Find the binary file and open it in a hex editor copy and paste all of the bytes to the input and click the buooton.
