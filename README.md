@@ -16,6 +16,12 @@ Tool named:: "Parse_XLSM_MacroSheet_Value_Data" This tool is for use with xml ve
   To use this tool: Navigate to the location of the xml version of the macroshet select the file and then click the button.
   This tool was designed to extract the masive amounts of decimal values that end up converted to a HATA file.
   
+  Update: 2021-11-23 
+   Bug Fix for tool Updated to version 1.0.0.3 File name Parse_XLSM_MacroSheet_Value_Data.7z Password = clean
+   Fixed problem where tool was truncating the input data 1 char each round. not a problem on smaller files.
+   This sample broke it: https://twitter.com/DissectMalware/status/1463082797459927044
+   Tool is used on the converted file from Xlsb to Xlsm.
+  
 Tool named:: "Parse_XLSM_MacroSheetData" was designed to extract the data from the macrosheet from this zloader sample.
   https://labs.inquest.net/dfi/sha256/00af74bbf7d5430b861d3fcd79afb184e352bbd27348613659e7769f0ef1207f
   To use this tool: Navigate to the xml version of the macrosheet and select file then click the button. 
