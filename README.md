@@ -33,6 +33,10 @@ Tool named:: "Parse_Zloader_Excel4_W-FORMULA-FILL" was designed to work with mac
 
 Tool named:: "ConvFromDecCharCode" was designed for converting decimal char codes to char. It allows you to pick a delimiter Char. 
   Default is * and may need to be changed.
+  
+Tool named:: "ReplaceCharCodesWithChar" Is designed to find and replace the charcode "Chr(65) with the actual char "A"
+  To use you may need to fix the the format Like "Char" to "Chr" using notpad++ or similar to a copy of the script.
+  Password for file is "clean"
   This version will Ignore "Null Bytes" when processing the char codes.
   To use this tool: Copy paste a decimal array into the input box. Input the correct delimeter. Click the button.
      
